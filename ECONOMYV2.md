@@ -1,4 +1,4 @@
-# Power RP 5.0 — Economy Rebalance Plan
+# Power RP 5.0 — Economy Rebalance Plan V2
 
 > **Date:** February 20, 2026  
 > **Status:** DRAFT — Awaiting approval before any edits  
