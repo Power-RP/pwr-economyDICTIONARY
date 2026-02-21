@@ -1,4 +1,4 @@
-# Power RP 5.0 — Economy Rebalance V2
+# Power RP 5.0 — Economy Rebalance ALL CHANGES DETAIL IN V2
 
 **Date:** February 21, 2026  
 **Scope:** 13 scripts + 1 external system (qb-pawnsystem)  
